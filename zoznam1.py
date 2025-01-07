@@ -1,0 +1,1 @@
+print("jablka, hrusky, banany")
